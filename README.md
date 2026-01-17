@@ -1,5 +1,5 @@
 # Halo semua!
-Perkenalkan, saya Eva Meivina Dwiana. Saya adalah mahasiswa Informatika di Universitas Gunadarma, dengan minat di Data Analysis, Data Science, Project Management, Machine Learning, dan Public Relations.
+Perkenalkan, saya Eva Meivina Dwiana. Saya adalah mahasiswa Informatika di Universitas Gunadarma, dengan minat di Data Analysis, Data Science, dan Machine Learning.
 
 Saat ini, saya sedang menjalani program ASAH dengan path pembelajaran Machine Learning, yang memperdalam pemahaman saya tentang penerapan machine learning dalam dunia industri.
 
